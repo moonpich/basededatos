@@ -18,7 +18,8 @@
 --
 -- Table structure for table `carrito`
 --
-
+CREATE DATABASE ManosMexicanas;
+USE ManosMexicanas;
 DROP TABLE IF EXISTS `carrito`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!50503 SET character_set_client = utf8mb4 */;
